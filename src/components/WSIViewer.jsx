@@ -62,7 +62,7 @@ const WSIViewer = () => {
             <table className="w-full text-left table-fixed border-collapse">
               <thead>
                 <tr className="bg-gray-200 text-black">
-                  <th className="border p-2">RCB</th>
+                  <th className="border p-2">RBC</th>
                   <th className="border p-2">Count</th>
                   <th className="border p-2">Percentage</th>
                 </tr>
@@ -106,7 +106,7 @@ const WSIViewer = () => {
             <table className="w-full text-left table-fixed border-collapse mt-6">
               <thead>
                 <tr className="bg-gray-200 text-black">
-                  <th className="p-2 border text-center" colSpan="2">WBC</th>
+                  <th className="p-2 border text-center" colSpan="2">Platelets</th>
                 </tr>
               </thead>
               <tbody className="text-black">
